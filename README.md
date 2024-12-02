@@ -1,2 +1,3 @@
 # Traffic_Light_System_Tiva-C
 A smart 4-lane traffic signal system with UART, INTERRUPT, BUZZER and 7-segment Display for counter using Tiva-C board (TM4C123GH6PM) Microcontroller.
+This project addresses urban traffic congestion through an adaptive traffic light control system powered by the TM4C123 microcontroller. Using real-time data from sensors, the system dynamically adjusts signal timings to optimize traffic flow, reduce congestion, and improve safety. Key features include emergency vehicle prioritization, pedestrian detection, interrupt handling, and UART communication for data analysis. Future improvements aim to integrate V2I/V2V communication and centralized traffic management for enhanced responsiveness and efficiency.
